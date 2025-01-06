@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "title": "Nakarmić psa",
-      "done": false,
-      "createdAt": 1736115413743,
-      "id": 1
-    },
-    {
       "title": "Iść na siłownię",
       "done": false,
       "createdAt": 1736115425193,
@@ -14,8 +8,8 @@
     },
     {
       "title": "Kupić mleko",
-      "done": true,
-      "createdAt": 1736115438950,
+      "done": false,
+      "createdAt": 1736161530930,
       "id": 3
     }
   ]
